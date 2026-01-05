@@ -57,12 +57,12 @@ Success Notifications: Popup confirmation for successful operations.
   Steps to Run Locally:-
  1.Clone the repository
   git clone https://github.com/yourusername/employee-management.git
-  npm create vite@latest my-react-app.
-  cd reactapp
+  -npm create vite@latest my-react-app.
+  -cd reactapp
 2. Install dependencies
-   npm install
+   -npm install
 3. Start the development server
-   npm run or npm run dev
+   -npm run or npm run dev
 4.Open in Browser
    Navigate to http://localhost:3000
    Login with:
