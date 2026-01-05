@@ -64,7 +64,7 @@ Success Notifications: Popup confirmation for successful operations.
 3. Start the development server
    -npm run or npm run dev
 4.Open in Browser
-   Navigate to http://localhost:3000
+   Navigate to http://localhost:3000 or localhost:5173
    Login with:
     Username: admin
     Password: 1234
