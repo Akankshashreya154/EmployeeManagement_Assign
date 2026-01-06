@@ -80,6 +80,11 @@ src/
 ├─ main.jsx
 ├─ index.css
 
+
+# LOGIN FLOW-
+<img width="1752" height="962" alt="image" src="https://github.com/user-attachments/assets/2e8b1a3f-9d93-4d25-940b-8a1490018cb3" />
+
+
 Auth Folder is in src/ .
 
 
