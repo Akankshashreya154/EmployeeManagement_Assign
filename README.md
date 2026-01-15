@@ -90,6 +90,7 @@ Auth Folder is in src/ .
 ADD,EDIT,DELETE,PRINT ACTIONS CAN BE DONE
 
 <img width="1910" height="947" alt="image" src="https://github.com/user-attachments/assets/cdf4c3fb-c516-4014-b412-bf3c87be055f" />
+
 # EDIT
 <img width="1897" height="952" alt="image" src="https://github.com/user-attachments/assets/f98da94a-f520-4412-ac74-3b170b62de6f" />
 
