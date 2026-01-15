@@ -96,6 +96,7 @@ ADD,EDIT,DELETE,PRINT ACTIONS CAN BE DONE
 
 # PRINT
 <img width="1733" height="887" alt="image" src="https://github.com/user-attachments/assets/77deb888-4cd9-494d-a3b9-e22623614fd6" />
+
 # DELETE
 Checking by deleing last name-Priym
 <img width="1911" height="1005" alt="image" src="https://github.com/user-attachments/assets/6837b9e2-201f-46f6-95cf-d11d2d99c9cb" />
